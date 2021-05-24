@@ -1,2 +1,12 @@
-# simple-python-port-scanner
-Simple port scanner in python
+# Simple python port scanner
+
+Just a simple port scanner
+
+## Usage
+
+```bash
+python3 simple-port-scanner.py <ip>
+```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
